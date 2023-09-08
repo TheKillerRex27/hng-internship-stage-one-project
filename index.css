@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    margin: 4em;
+}
+
+.display-img {
+    margin-right: 5em;
+}
+
+.label {
+    font-weight: bold;
+}
